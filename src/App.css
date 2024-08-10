@@ -30,3 +30,6 @@ input{
   padding: 10px;
   font-size: 20px;
 }
+label{
+  display: block;
+}
